@@ -1,11 +1,11 @@
 <h1>नमस्कार दोस्तों</h1>
 
-# Hi there, I'm NITISH KUMAR [CodingVista][website] 👋
+# Hi there, I'm NITISH KUMAR 👋
 
 [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codingvista.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
 
-## I'm a Competeitive Prograamer,Computer Science Engineaer, Developer,!
+## I'm a Competeitive Programer,Computer Science Engineaer, Developer,!
 
 - 🔭 I’m currently working on a [VS Code Course][website],WebDev Project!
 - 🌱 I’m currently learning everything 🤣.
